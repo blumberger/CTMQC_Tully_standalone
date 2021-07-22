@@ -9,6 +9,7 @@ To use the code set the variable `inputs' at the top of the main.py code (in the
 
 
 ## The most recent version of the code should pass the following tests
+### See Matt's thesis: https://github.com/95ellismle/PhD_Thesis, for graphs showing some of these tests.
 #### Misc
  - [x] Rabi Oscillation (diabatic propagation)
  - [x] dx/dt = v
