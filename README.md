@@ -16,9 +16,9 @@ To use the code set the variable `inputs' at the top of the main.py code (in the
 
 #### Ehrenfest
  - [x] Ehrenfest same as in Agostini, 16 -model4 is a problem this may not be correct (adiabatic propagation)
- - [ ] Ehrenfest same as in Agostini, 16 -model4 is a problem this may not be correct (diabatic propagation)
+ - [x] Ehrenfest same as in Agostini, 16 -model4 is a problem this may not be correct (diabatic propagation)
  - [x] Ehrenfest same as in Gossel, 18 (adiabatic propagation)
- - [ ] Ehrenfest same as in Gossel, 18 (diabatic propagation)
+ - [x] Ehrenfest same as in Gossel, 18 (diabatic propagation)
  - [x] Ehrenfest norm conserved to 1e-12 for dt_n=0.1 dt_e=0.01 (adiabatic propagation)
  - [ ] Ehrenfest norm conserved to 1e-12 for dt_n=0.1 dt_e=0.01 (diabatic propagation)
  - [x] Ehrenfest energy is conserved well
@@ -26,7 +26,7 @@ To use the code set the variable `inputs' at the top of the main.py code (in the
 #### CTMQC
  - [x] 1 rep same as Ehrenfest (pass all Ehrenfest tests)
  - [x] d/dt(f_l) = Fad_l
- - [ ] sigmal calculator working
+ - [x] sigmal calculator working
  - [x] Divergence of Rlk calculator smoothing gives better norms (RI0 smoothing)
  - [ ] Divergence of Rlk calculator smoothing (extrapolation smoothing)
  - [x] Norm conservation gets better with decreasing timestep
